@@ -1,2 +1,2 @@
 # autopilot-website
-This web is developed from scratch with HTML, CSS and JavaScript. 
+This web is developed from scratch with HTML, CSS. 
